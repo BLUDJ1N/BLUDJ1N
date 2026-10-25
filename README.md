@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Привет, меня зовут Владислав! 👋</h1>
-<h3 align="center">Начинающий инженер данных · Junior Data Engineer</h3>
+<h3 align="center">Инженер данных · Data Engineer</h3>
 
 ## 👨‍💻 Обо мне
 
